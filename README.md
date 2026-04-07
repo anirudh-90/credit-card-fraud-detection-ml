@@ -115,8 +115,3 @@ python src/train.py
 - Advanced models (XGBoost, Neural Networks)
 - Real-time fraud detection system
 - Deployment as a web application
-
----
-
-## Author
-Anirudh Iyer
